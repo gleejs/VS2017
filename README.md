@@ -2,7 +2,7 @@
 Visual Studio 2017
 Creating an offiline installation
 
-https://docs.microsoft.com/en-us/visualstudio/install/create-an-offline-installation-of-visual-studio
+https://docs.microsoft.com/en-us/visualstudio/install/create-a-network-installation-of-visual-studio
 
 
 Silent install for VS2017
