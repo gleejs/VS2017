@@ -13,3 +13,8 @@ https://docs.microsoft.com/en-us/visualstudio/install/workload-component-id-vs-e
 
 
 VS.exe --add Microsoft.VisualStudio.Workload.NetCoreTools --add Microsoft.VisualStudio.Workload.NetWeb;--includeRecommended --add Microsoft.VisualStudio.Workload.Universal;--includeRecommended --add  Microsoft.VisualStudio.Component.TestTools.MicrosoftTestManager;--includeRecommended --passive --norestart
+
+Vs.exe --add Microsoft.VisualStudio.WorkloadNetWeb --includeRecommended --passive
+
+VS.exe --add Microsoft.VisualStudio.Workload.NetCoreTools
+ --includeRecommended --passive
